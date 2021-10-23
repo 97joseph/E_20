@@ -4,7 +4,7 @@
 
 ### Introduction
 
-This project represents a substantive programming exercise. Like all work for this class, it is to be completedindividually: any form of collaboration is prohibited, as detailed in the syllabus. This project is considereda take-home exam.Before even reading this assignment, please read the E20 manual thoroughly. Read the provided E20assembly language examples.
+**This project represents a substantive programming exercise. ***. Read the provided E20assembly language examples.**
 
 ### Specifications
 
