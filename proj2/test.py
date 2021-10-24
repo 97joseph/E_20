@@ -1,3 +1,15 @@
+#!/usr/bin/python3
+
+"""
+CS-UY 2214
+Jeff Epstein
+Starter code for E20 simulator
+sim.py
+"""
+
+from collections import namedtuple
+import re
+import argparse
 import sys
 import json
 
